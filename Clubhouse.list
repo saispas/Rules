@@ -1,5 +1,4 @@
 # > Clubhouse
-# 如果的你代理服务器不支持或没有开启 udp-relay，请不要使用本文件。
 IP-CIDR,3.0.163.78/32,Clubhouse
 IP-CIDR,13.230.60.35/32,Clubhouse
 IP-CIDR,23.98.43.152/32,Clubhouse
